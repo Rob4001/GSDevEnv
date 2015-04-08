@@ -1,0 +1,20 @@
+{
+  "Gemfile": "101973bf65188662c9f6207ca1e90d6a",
+  "Gemfile.lock": "4e7a4550be68361268e8869e7d14adc3",
+  "Guardfile": "b711603054b96172b4a01b2ab0e2b9f7",
+  "LICENSE": "da18535366c5564cb151a5116ac4d7ba",
+  "README.md": "4b742740f3f7b9b74f514c60942ee0d6",
+  "Rakefile": "fca5e94a5ce93c2cd8eebf9dc96f0b7b",
+  "manifests/config.pp": "e6d09ce6b687a7a52304608e82d5a2a6",
+  "manifests/init.pp": "d1a45ad640a8b74087dca7d48200277f",
+  "manifests/package.pp": "5c4e6217989443ea2111a3857118d94b",
+  "manifests/params.pp": "a48d775dbc5a52d290c64fc63d0b61cf",
+  "metadata.json": "4034bf6208e9e2d421427d7d245c0c21",
+  "spec/classes/config_spec.rb": "e0d9e47692134647c68082d57fb7650f",
+  "spec/classes/coverage_spec.rb": "bf32f21e0df18860f745ccdbd6c8d56f",
+  "spec/classes/package_spec.rb": "f9c06e57b75d1fbfa7da9c8d27bcadbe",
+  "spec/classes/phpldapadmin_spec.rb": "6c09db1ff6dc4487eedb112b005db599",
+  "spec/spec_helper.rb": "505d704d59faacbab0beb2d90c3613ef",
+  "templates/config.php.erb": "d0a6472275d4d5fbb26f8ce0b071129e",
+  "tests/init.pp": "19b1b0893e2516df2c34ea2e313777d5"
+}

@@ -1,0 +1,6 @@
+[submodule "puppet_modules/ldap"]
+	path = puppet_modules/ldap
+	url = https://github.com/torian/puppet-ldap.git
+[submodule "puppet_modules/ldapdn"]
+	path = puppet_modules/ldapdn
+	url = https://github.com/gtmtechltd/puppet_ldapdn.git
